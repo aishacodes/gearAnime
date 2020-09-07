@@ -49,6 +49,7 @@ body {
 .active {
     transform: scale(1.05);
     background-blend-mode: multiply;
+    transition-duration: .5s;
 }
 
 .top img {
